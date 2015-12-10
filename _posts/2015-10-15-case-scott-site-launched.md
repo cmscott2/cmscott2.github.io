@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Casey Scott, CS Student, Launches Site"
-date: 2015-10-15
+date: 2015-12-15
 ---
 
 I decided to create a github page to use as my portfolio after 
